@@ -3,7 +3,7 @@
 
 EAPI=7
 
-DESCRIPTION="Hacking Networked Solutions administrative authentication configuration package"
+DESCRIPTION="Hacking Networked Solutions administrative authentication package"
 HOMEPAGE="http://www.hacking.co.uk/"
 LICENSE="GPL-3"
 
